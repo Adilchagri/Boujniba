@@ -1,0 +1,39 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.custom-icon {
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.list-group-item.active {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.modal .modal-dialog {
+    max-width: 800px;
+}
+
+.modal .modal-body {
+    padding: 20px;
+}
